@@ -1,0 +1,11 @@
+{
+  "name": "tests-web-qa",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas automatizadas con Cypress y Selenium",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
