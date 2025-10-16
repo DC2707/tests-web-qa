@@ -1,4 +1,4 @@
-# 🧪 Proyecto de Pruebas Web — Selenium + Cypress + QA Tools
+#  Proyecto de Pruebas Web — Selenium + Cypress + QA Tools
 
 ## 📘 Contenido
 - Selenium (Python + pytest)
